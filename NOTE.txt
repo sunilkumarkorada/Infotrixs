@@ -1,0 +1,5 @@
+Step 1:  save this file in xamp/htdocs.
+
+step 2: Open mysql admin and run those quries .
+
+Step 3: last step . open chrome and search localhost/chat_project/chatpage.php.
